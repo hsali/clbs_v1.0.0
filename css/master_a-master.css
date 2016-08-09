@@ -1,0 +1,27 @@
+#u1115_clip
+{
+	overflow: hidden;
+}
+
+#u1121,#u1127
+{
+	background-color: transparent;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	position: fixed;
+}
+
+#u1115,#u1133
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	position: fixed;
+}
+
